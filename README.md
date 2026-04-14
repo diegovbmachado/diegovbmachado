@@ -13,12 +13,15 @@
 Apaixonado por tecnologia, aprender, me conectar com outras pessoas e sempre estar evoluindo cada vez mais.
 
 ## Ultimos projetos:
+
 - [LandPage] - Utilizando tailWind, React e TypeScript ()</br>
 - [LandPage] - Utilizando tailWind, React e TypeScript ()</br>
 - [LandPage] - Utilizando tailWind, React e TypeScript ()</br>
 
 ## Voltando ao GitHub
 
-![GitHub Stats](https://ghstats.dev/api/card?username=diegovbmachado&theme=tokyonight)
 ![GitHub Stats](https://streak-stats.demolab.com?user=diegovbmachado)
+
+![GitHub Stats](https://ghstats.dev/api/card?username=diegovbmachado&theme=tokyonight)
+
 
