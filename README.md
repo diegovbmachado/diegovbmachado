@@ -16,8 +16,9 @@ Apaixonado por tecnologia, aprender, me conectar com outras pessoas e sempre est
 
 ## Ultimos projetos:
 
-- [LandPage] - Utilizando tailWind, React e TypeScript ()</br>
-- [Gerador de QRcode personalizado] -(https://qr-code-gen-vgnb.vercel.app/) ()</br>
+- [LandPage]  https://diegovbmachado.github.io/Landing_page_final/
+- - Utilizando tailWind, React e TypeScript ()</br>
+- [Gerador de QRcode personalizado] -(https://qr-code-gen-vgnb.vercel.app/)</br>
 - [LandPage] - Utilizando tailWind, React e TypeScript ()</br>
 
 ## Voltando ao GitHub
