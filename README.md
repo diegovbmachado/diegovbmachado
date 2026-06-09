@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello!%20I'm%20Diego&fontSize=70" alt="Header" />
+</p>
 ### Olá! Eu sou o Diego Luiz 🖐️
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
@@ -23,7 +25,7 @@ Apaixonado por tecnologia, aprender, me conectar com outras pessoas e sempre est
 - [LandPage] - Utilizando tailWind, React e TypeScript ()</br>
 
 ## Voltando ao GitHub
-                                        Voltando a usar as boas praticas da programação.
+                              Voltando a usar as boas praticas da programação.
 
 <table border="0">
   <tr>
