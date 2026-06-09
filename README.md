@@ -25,8 +25,6 @@ Apaixonado por tecnologia, aprender, me conectar com outras pessoas e sempre est
 ## Voltando ao GitHub
 Voltando a usar as boas praticas da programação.
 
-![GitHub Streak](https://streak-stats.demolab.com?user=diegovbmachado&theme=default)
-
-![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=diegovbmachado&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegovbmachado&layout=compact&langs_count=6)![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=diegovbmachado&show_icons=true&theme=swift)
 
 
