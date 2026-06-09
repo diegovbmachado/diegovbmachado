@@ -27,6 +27,6 @@ Voltando a usar as boas praticas da programação.
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=diegovbmachado&theme=default)
 
-![GitHub Stats](https://ghstats.dev/api/stats?username=diegovbmachado&theme=tokyonight)
+![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=diegovbmachado&show_icons=true&theme=radical)
 
 
