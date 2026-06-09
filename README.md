@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Olá!%20Eu sou%20Diego&fontSize=70" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Ola!%20Eusou%20Diego&fontSize=70" alt="Header" />
 </p>
 
 
