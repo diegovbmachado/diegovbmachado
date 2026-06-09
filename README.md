@@ -28,7 +28,7 @@ Voltando a usar as boas praticas da programação.
 <table border="0">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=diegovbmachado&show_icons=true&theme=swift" height="195px" alt="Diego GitHub stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=diegovbmachado&show_icons=true&theme=transparent" height="195px" alt="Diego GitHub stats" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegovbmachado&layout=compact&langs_count=6" height="195px" alt="Top Langs" />
