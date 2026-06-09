@@ -25,7 +25,7 @@ Apaixonado por tecnologia, aprender, me conectar com outras pessoas e sempre est
 ## Voltando ao GitHub
 Voltando a usar as boas praticas da programação.
 
-![GitHub Stats](https://streak-stats.demolab.com?user=diegovbmachado)
+![GitHub Streak](https://streak-stats.demolab.com?user=diegovbmachado&theme=default)
 
 ![GitHub Stats](https://ghstats.dev/api/card?username=diegovbmachado&theme=tokyonight)
 
