@@ -25,6 +25,15 @@ Apaixonado por tecnologia, aprender, me conectar com outras pessoas e sempre est
 ## Voltando ao GitHub
 Voltando a usar as boas praticas da programação.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegovbmachado&layout=compact&langs_count=6)![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=diegovbmachado&show_icons=true&theme=swift)
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=diegovbmachado&show_icons=true&theme=swift" height="195px" alt="Diego GitHub stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegovbmachado&layout=compact&langs_count=6" height="195px" alt="Top Langs" />
+    </td>
+  </tr>
+</table>
 
 
