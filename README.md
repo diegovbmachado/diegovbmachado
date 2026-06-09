@@ -25,7 +25,7 @@ Apaixonado por tecnologia, aprender, me conectar com outras pessoas e sempre est
 - [LandPage] - Utilizando tailWind, React e TypeScript ()</br>
 
 ## Voltando ao GitHub
-                              Voltando a usar as boas praticas da programação.
+                                 Voltando a usar as boas praticas da programação.
 
 <table border="0">
   <tr>
