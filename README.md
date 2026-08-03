@@ -29,7 +29,8 @@ Apaixonado por tecnologia, aprender, me conectar com outras pessoas e sempre est
 **------------------------------------------------------------------------------------------------------------------------------------------------------**
   
 💡 Sobre os Projetos abaixo >>
-Aplicação web moderna desenvolvida com foco em alta performance, usabilidade intuitiva e código limpo. O projeto foi estruturado utilizando padrões modernos de desenvolvimento front-end, garantindo responsividade e uma experiência de usuário fluida.
+
+-As Aplicações web modernas foram desenvolvidas com foco em alta performance, usabilidade intuitiva e código limpo. Os projetos foram estruturados utilizando padrões modernos de desenvolvimento front-end, garantindo responsividade e uma experiência de usuário fluida.
 
 - **Stack Principal:** Next.js, React, TypeScript e Tailwind CSS.
 - **Boas Práticas:** Arquitetura componentizada, código tipado e estilização utilitária responsiva.
