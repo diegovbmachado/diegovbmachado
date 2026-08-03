@@ -25,16 +25,15 @@ Apaixonado por tecnologia, aprender, me conectar com outras pessoas e sempre est
 * **Notificações Push:** Firebase Cloud Messaging (FCM) & Service Workers
 * **Gráficos e Indicadores:** Recharts e Lucide React
 * **Integração Externa:** CoinGecko API (Dados de mercado em tempo real)
-
-💡 Sobre o Projeto
+**---------------------------------------------------------------------------------------------------------------------------------------------------------------**
+  
+💡 Sobre os Projetos abaixo >>
 Aplicação web moderna desenvolvida com foco em alta performance, usabilidade intuitiva e código limpo. O projeto foi estruturado utilizando padrões modernos de desenvolvimento front-end, garantindo responsividade e uma experiência de usuário fluida.
 
 - **Stack Principal:** Next.js, React, TypeScript e Tailwind CSS.
-- 
 - **Boas Práticas:** Arquitetura componentizada, código tipado e estilização utilitária responsiva.
-
 Objetivo: Desenvolver soluções web eficientes e escaláveis, aplicando conceitos avançados de engenharia de software e design moderno.
-**---------------------------------------------------------------------------------------------------------------------------------------------------------------**
+
 ## [LandPage]  - Utilizando tailWind, React e TypeScript ()
 - https://diegovbmachado.github.io/Landing_page_final/</br>
 
@@ -53,4 +52,3 @@ Objetivo: Desenvolver soluções web eficientes e escaláveis, aplicando conceit
   <img src="https://github-readme-stats.vercel.app/api?username=diegovbmachado&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&include_all_commits=true" alt="Diego GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegovbmachado&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&langs_count=6" alt="Top Langs" />
 </p>
-
