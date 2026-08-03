@@ -25,6 +25,7 @@ Apaixonado por tecnologia, aprender, me conectar com outras pessoas e sempre est
 * **Notificações Push:** Firebase Cloud Messaging (FCM) & Service Workers
 * **Gráficos e Indicadores:** Recharts e Lucide React
 * **Integração Externa:** CoinGecko API (Dados de mercado em tempo real)
+ 
 **------------------------------------------------------------------------------------------------------------------------------------------------------**
   
 💡 Sobre os Projetos abaixo >>
