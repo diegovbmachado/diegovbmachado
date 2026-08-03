@@ -18,24 +18,39 @@ Apaixonado por tecnologia, aprender, me conectar com outras pessoas e sempre est
 
 ## Ultimos projetos:
 
-- [LandPage]  - Utilizando tailWind, React e TypeScript ()
+## [# 🚀 CardFlow - Sistema de Gestão Financeira & Módulo Web3]
+- https://card-flow-o9wl.vercel.app/
+- Utilizando Next.js, Tailwind CSS, Shadcn UI, Firebase Firestore & Auth, 
+- O **CardFlow** é uma aplicação web moderna de controle de gastos e faturamento, desenvolvida com tecnologias de ponta para proporcionar uma experiência analítica fluida, segura e em tempo real. O sistema conta com autenticação robusta, painéis interativos de fluxo de caixa, gestão de categorias personalizadas e um módulo Web3 avançado com monitoramento de criptomoedas e notificações push.
+* **Notificações Push:** Firebase Cloud Messaging (FCM) & Service Workers
+* **Gráficos e Indicadores:** Recharts e Lucide React
+* **Integração Externa:** CoinGecko API (Dados de mercado em tempo real)
+
+💡 Sobre o Projeto
+Aplicação web moderna desenvolvida com foco em alta performance, usabilidade intuitiva e código limpo. O projeto foi estruturado utilizando padrões modernos de desenvolvimento front-end, garantindo responsividade e uma experiência de usuário fluida.
+
+- **Stack Principal:** Next.js, React, TypeScript e Tailwind CSS.
+- 
+- **Boas Práticas:** Arquitetura componentizada, código tipado e estilização utilitária responsiva.
+
+Objetivo: Desenvolver soluções web eficientes e escaláveis, aplicando conceitos avançados de engenharia de software e design moderno.
+**---------------------------------------------------------------------------------------------------------------------------------------------------------------**
+## [LandPage]  - Utilizando tailWind, React e TypeScript ()
 - https://diegovbmachado.github.io/Landing_page_final/</br>
-- [Gerador de QRcode personalizado] - Utilizando React, Next.js e TypeScript ()
-- (https://qr-code-gen-vgnb.vercel.app/)</br>
-- [LandPage] - Utilizando tailWind, React e TypeScript ()</br>
 
+**---------------------------------------------------------------------------------------------------------------------------------------------------------------**
+## [Gerador de QRcode personalizado] - Utilizando React, Next.js e TypeScript ()
+- https://qr-code-gen-vgnb.vercel.app/</br>
+
+**---------------------------------------------------------------------------------------------------------------------------------------------------------------**
+## [LandPage] - Utilizando tailWind, React e TypeScript ()</br>
+
+**---------------------------------------------------------------------------------------------------------------------------------------------------------------**
 ## Voltando ao GitHub
-                                 Voltando a usar as boas praticas da programação.
+-Voltando a usar as boas práticas da programação.
 
-<table border="0">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=diegovbmachado&show_icons=true&theme=transparent" height="195px" alt="Diego GitHub stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegovbmachado&layout=compact&langs_count=6" height="195px" alt="Top Langs" />
-    </td>
-  </tr>
-</table>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=diegovbmachado&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&include_all_commits=true" alt="Diego GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegovbmachado&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&langs_count=6" alt="Top Langs" />
+</p>
 
