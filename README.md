@@ -25,7 +25,7 @@ Apaixonado por tecnologia, aprender, me conectar com outras pessoas e sempre est
 * **Notificações Push:** Firebase Cloud Messaging (FCM) & Service Workers
 * **Gráficos e Indicadores:** Recharts e Lucide React
 * **Integração Externa:** CoinGecko API (Dados de mercado em tempo real)
-**---------------------------------------------------------------------------------------------------------------------------------------------------------------**
+**------------------------------------------------------------------------------------------------------------------------------------------------------**
   
 💡 Sobre os Projetos abaixo >>
 Aplicação web moderna desenvolvida com foco em alta performance, usabilidade intuitiva e código limpo. O projeto foi estruturado utilizando padrões modernos de desenvolvimento front-end, garantindo responsividade e uma experiência de usuário fluida.
@@ -37,14 +37,14 @@ Objetivo: Desenvolver soluções web eficientes e escaláveis, aplicando conceit
 ## [LandPage]  - Utilizando tailWind, React e TypeScript ()
 - https://diegovbmachado.github.io/Landing_page_final/</br>
 
-**---------------------------------------------------------------------------------------------------------------------------------------------------------------**
+**------------------------------------------------------------------------------------------------------------------------------------------------------**
 ## [Gerador de QRcode personalizado] - Utilizando React, Next.js e TypeScript ()
 - https://qr-code-gen-vgnb.vercel.app/</br>
 
-**---------------------------------------------------------------------------------------------------------------------------------------------------------------**
+**------------------------------------------------------------------------------------------------------------------------------------------------------**
 ## [LandPage] - Utilizando tailWind, React e TypeScript ()</br>
 
-**---------------------------------------------------------------------------------------------------------------------------------------------------------------**
+**------------------------------------------------------------------------------------------------------------------------------------------------------**
 ## Voltando ao GitHub
 -Voltando a usar as boas práticas da programação.
 
