@@ -27,30 +27,20 @@ Apaixonado por tecnologia, aprender, me conectar com outras pessoas e sempre est
 * **Integração Externa:** CoinGecko API (Dados de mercado em tempo real)
  
 **------------------------------------------------------------------------------------------------------------------------------------------------------**
-  
-💡 Sobre os Projetos abaixo >>
 
--As Aplicações web modernas foram desenvolvidas com foco em alta performance, usabilidade intuitiva e código limpo. Os projetos foram estruturados utilizando padrões modernos de desenvolvimento front-end, garantindo responsividade e uma experiência de usuário fluida.
+-As Aplicações web modernas abaixo, foram desenvolvidas com foco em alta performance, usabilidade intuitiva e código limpo. Os projetos foram estruturados utilizando padrões modernos de desenvolvimento front-end, garantindo responsividade e uma experiência de usuário fluida.
+
+## [LandPage]  - Utilizando tailWind, React e TypeScript ()
+- https://diegovbmachado.github.io/Landing_page_final/</br>
+## [Gerador de QRcode personalizado] - Utilizando React, Next.js e TypeScript ()
+- https://qr-code-gen-vgnb.vercel.app/</br>
 
 - **Stack Principal:** Next.js, React, TypeScript e Tailwind CSS.
 - **Boas Práticas:** Arquitetura componentizada, código tipado e estilização utilitária responsiva.
 Objetivo: Desenvolver soluções web eficientes e escaláveis, aplicando conceitos avançados de engenharia de software e design moderno.
 
-## [LandPage]  - Utilizando tailWind, React e TypeScript ()
-- https://diegovbmachado.github.io/Landing_page_final/</br>
-
-**------------------------------------------------------------------------------------------------------------------------------------------------------**
-## [Gerador de QRcode personalizado] - Utilizando React, Next.js e TypeScript ()
-- https://qr-code-gen-vgnb.vercel.app/</br>
-
-**------------------------------------------------------------------------------------------------------------------------------------------------------**
-## [LandPage] - Utilizando tailWind, React e TypeScript ()</br>
-
 **------------------------------------------------------------------------------------------------------------------------------------------------------**
 ## Voltando ao GitHub
 -Voltando a usar as boas práticas da programação.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diegovbmachado&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&include_all_commits=true" alt="Diego GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegovbmachado&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&langs_count=6" alt="Top Langs" />
-</p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=diegovbmachado&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&include_all_commits=true" alt="Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegovbmachado&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&langs_count=6" alt="Langs" /></p>
