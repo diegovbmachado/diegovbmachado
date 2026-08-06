@@ -43,4 +43,7 @@ Objetivo: Desenvolver soluções web eficientes e escaláveis, aplicando conceit
 ## Voltando ao GitHub
 -Voltando a usar as boas práticas da programação.
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=diegovbmachado&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&include_all_commits=true" alt="Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegovbmachado&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&langs_count=6" alt="Langs" /></p>
+<p align="center">
+  <img src="https://ghstats.dev/api/diegovbmachado?theme=dark&show_icons=true" alt="GitHub Stats" />
+  <img src="https://ghstats.dev/api/top-langs/diegovbmachado?theme=dark&layout=compact" alt="Top Langs" />
+</p>
