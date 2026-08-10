@@ -12,6 +12,8 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 </p>
 
 Apaixonado por tecnologia, aprender, me conectar com outras pessoas e sempre estar evoluindo cada vez mais.
@@ -45,9 +47,4 @@ As aplicações web modernas abaixo foram desenvolvidas com foco em alta perform
 ---
 
 ## Voltando ao GitHub
-- Voltando a usar as boas práticas da programação.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diegovbmachado&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&include_all_commits=true" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegovbmachado&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&langs_count=6" alt="Langs" />
-</p>
+- Voltando a usar as boas práticas da programação e construindo soluções reais.
