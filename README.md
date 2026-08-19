@@ -49,4 +49,5 @@ As aplicações web modernas abaixo foram desenvolvidas com foco em alta perform
 ## Voltando ao GitHub
 - Voltando a usar as boas práticas da programação e construindo soluções reais.
 
-- ![GitHub Stats](https://ghstats.dev/api/card?username=diegovbmachado)
+- ![GitHub Stats](https://ghstats.dev/api/card?username=diegovbmachado&theme=light)
+
